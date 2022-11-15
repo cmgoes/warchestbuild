@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f3f78c4.chunk.css",
+    "main.js": "/static/js/main.a46193f8.chunk.js",
+    "main.js.map": "/static/js/main.a46193f8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a09b9eb6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a09b9eb6.js.map",
+    "static/css/2.65f8c46c.chunk.css": "/static/css/2.65f8c46c.chunk.css",
+    "static/js/2.7706f908.chunk.js": "/static/js/2.7706f908.chunk.js",
+    "static/js/2.7706f908.chunk.js.map": "/static/js/2.7706f908.chunk.js.map",
+    "static/js/3.6dfd0ea7.chunk.js": "/static/js/3.6dfd0ea7.chunk.js",
+    "static/js/3.6dfd0ea7.chunk.js.map": "/static/js/3.6dfd0ea7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.65f8c46c.chunk.css.map": "/static/css/2.65f8c46c.chunk.css.map",
+    "static/css/main.0f3f78c4.chunk.css.map": "/static/css/main.0f3f78c4.chunk.css.map",
+    "static/js/2.7706f908.chunk.js.LICENSE.txt": "/static/js/2.7706f908.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/LucidaSansRegular.34f5b1c4.ttf",
+    "static/media/ban1.jpg": "/static/media/ban1.5cd04bdb.jpg",
+    "static/media/ban2.jpg": "/static/media/ban2.ec1990ce.jpg",
+    "static/media/battle1.jpg": "/static/media/battle1.267a0651.jpg",
+    "static/media/battle2.jpg": "/static/media/battle2.52a20647.jpg",
+    "static/media/battle3.jpg": "/static/media/battle3.1b349e0b.jpg",
+    "static/media/battle4.jpg": "/static/media/battle4.28a7f6fa.jpg",
+    "static/media/battle5.jpg": "/static/media/battle5.e9df88b2.jpg",
+    "static/media/battle6.jpg": "/static/media/battle6.10e62a5a.jpg",
+    "static/media/battle7.jpg": "/static/media/battle7.0161668e.jpg",
+    "static/media/battle8.jpg": "/static/media/battle8.2bb72b9e.jpg",
+    "static/media/discord-brands.svg": "/static/media/discord-brands.3e07cf0d.svg",
+    "static/media/logo.png": "/static/media/logo.2219dfc0.png",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/tronlink.svg": "/static/media/tronlink.abadbf5d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a09b9eb6.js",
+    "static/css/2.65f8c46c.chunk.css",
+    "static/js/2.7706f908.chunk.js",
+    "static/css/main.0f3f78c4.chunk.css",
+    "static/js/main.a46193f8.chunk.js"
+  ]
+}
